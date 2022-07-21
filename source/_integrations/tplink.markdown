@@ -61,6 +61,7 @@ There is currently support for the following device types within Home Assistant:
 - HS200
 - HS210
 - HS220 (acts as a light)
+- KS230 KIT
 
 ### Bulbs
 
